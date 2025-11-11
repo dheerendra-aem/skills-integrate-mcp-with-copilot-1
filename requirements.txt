@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+
+# Persistence
+sqlmodel
+sqlalchemy
+
+# Testing
+pytest
